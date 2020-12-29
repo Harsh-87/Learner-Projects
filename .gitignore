@@ -1,0 +1,6 @@
+/*/node_modules
+/*/appConfig.js
+/*/*.env
+
+npm-debug.log
+.DS_Store
